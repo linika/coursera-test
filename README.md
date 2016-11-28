@@ -1,2 +1,2 @@
-# coursera-test
-course test repository
+# View restaurant demo at
+https://linika.github.io/coursera-test/
