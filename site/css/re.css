@@ -1,0 +1,25 @@
+
+
+.first{
+	font-weight: bold ;
+	background-color:#15002b;
+	opacity: 0.5;
+	font-size:110% ;
+	color: white;
+
+}
+.whole{
+	color:white;
+	background-color:#15002b;
+	font-family:'verdana',sans-serif;
+}
+.center-text{
+	font-weight: bold ;
+	font-size:250% ;
+
+}
+h1{
+	color:#15002b;
+	display: block;
+	background-color: white;
+	}
